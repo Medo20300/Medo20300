@@ -21,7 +21,7 @@ LinkedIn: [https://www.linkedin.com/in/medhat-deif-lab-manager?utm_source=share&
 
 
 
-![](https://raw.githubusercontent.com/Medo20300/thickduck/master/profile-summary-card-output/darcula/0-profile-details.svg)
+
 
 
 ![](https://raw.githubusercontent.com/Medo20300/thickduck/master/profile-summary-card-output/darcula/1-repos-per-language.svg)
